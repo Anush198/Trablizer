@@ -1,2 +1,2 @@
 # Trablizer
-Business and life science
+Business dev. Google tools and life science
